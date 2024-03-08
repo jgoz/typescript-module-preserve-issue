@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler",
+    "module": "preserve",
+    "importHelpers": true,
+    "outDir": "dist",
+    "target": "es2021"
+  },
+  "include": ["src"]
+}
